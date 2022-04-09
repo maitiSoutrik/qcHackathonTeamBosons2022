@@ -7,6 +7,8 @@
 
 # Task List
 * Create a Start Screen using Pygame
+* Add the first level of the game
+
 
 # Team Name
 <b>Bosons
