@@ -9,10 +9,10 @@
 
 
 # Team Members 
-* Chinmay Tompe
-* Tanjin Adnan Abir
-* Konstantin Lebeda
-* Soutrik Maiti
+* Chinmay Tompe (@chinmaytompe)
+* Tanjin Adnan Abir (@abirtanjinadnan)
+* Konstantin Lebeda (@nertondfg)
+* Soutrik Maiti (@maitiSoutrik)
 * Luis Ayala
 
 
