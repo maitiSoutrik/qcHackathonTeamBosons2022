@@ -1,4 +1,9 @@
-# qcHackathonTeamBosons2022
+# IBM Quantum Challenge Submission
+
+## Team Name
+<b>Bosons
+
+
 ## Team Members 
 * Chinmay Tompe
 * Tanjin Adnan Abir
