@@ -8,6 +8,12 @@
 # Task List
 * Create a Start Screen using Pygame
 * Add the first level of the game
+* Add a teleportation game
+
+Teleportation Game :
+Story of intergalactic information exchange.
+SOS signal
+
 
 
 # Team Name

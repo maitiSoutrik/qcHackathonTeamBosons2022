@@ -19,7 +19,6 @@ pygame.display.set_icon(icon)
 
 startMenu.menuItems.startScreen()
 
-running = True
 
 
     
