@@ -13,10 +13,6 @@ The puzzles will involve quantum computing gates and algorithms.
 * Add the first level of the game
 * Add a teleportation game
 
-Teleportation Game :
-Story of intergalactic information exchange.
-SOS signal
-
 
 
 # Team Name
@@ -24,10 +20,6 @@ SOS signal
 
 
 # Team Members 
-* Chinmay Tompe (@chinmaytompe)
 * Tanjin Adnan Abir (@abirtanjinadnan)
-* Konstantin Lebeda (@nertondfg)
 * Soutrik Maiti (@maitiSoutrik)
-* Luis Ayala
-
 
